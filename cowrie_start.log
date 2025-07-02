@@ -1,0 +1,33 @@
+Using activated Python virtual environment "/home/pablo/Desktop/Honeypot/cowrie/cowrie-env"
+Starting cowrie: [twistd  --umask=0022 --pidfile=var/run/cowrie.pid --logger cowrie.python.logfile.logger cowrie ]...
+/home/pablo/Desktop/Honeypot/cowrie/cowrie-env/lib/python3.13/site-packages/twisted/conch/ssh/transport.py:105: CryptographyDeprecationWarning: TripleDES has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.TripleDES and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  b"3des-cbc": (algorithms.TripleDES, 24, modes.CBC),
+/home/pablo/Desktop/Honeypot/cowrie/cowrie-env/lib/python3.13/site-packages/twisted/conch/ssh/transport.py:112: CryptographyDeprecationWarning: TripleDES has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.TripleDES and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  b"3des-ctr": (algorithms.TripleDES, 24, modes.CTR),
+ERROR: You must not run cowrie as root!
+Using activated Python virtual environment "/home/pablo/Desktop/Honeypot/cowrie/cowrie-env"
+Starting cowrie: [twistd  --umask=0022 --pidfile=var/run/cowrie.pid --logger cowrie.python.logfile.logger cowrie ]...
+/home/pablo/Desktop/Honeypot/cowrie/cowrie-env/lib/python3.13/site-packages/twisted/conch/ssh/transport.py:105: CryptographyDeprecationWarning: TripleDES has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.TripleDES and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  b"3des-cbc": (algorithms.TripleDES, 24, modes.CBC),
+/home/pablo/Desktop/Honeypot/cowrie/cowrie-env/lib/python3.13/site-packages/twisted/conch/ssh/transport.py:112: CryptographyDeprecationWarning: TripleDES has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.TripleDES and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  b"3des-ctr": (algorithms.TripleDES, 24, modes.CTR),
+Another twistd server is running, PID 15682
+
+This could either be a previously started instance of your application or a
+different application entirely. To start a new one, either run it in some other
+directory, or use the --pidfile and --logfile parameters to avoid clashes.
+
+Using activated Python virtual environment "/home/pablo/Desktop/Honeypot/cowrie/cowrie-env"
+Starting cowrie: [twistd  --umask=0022 --pidfile=var/run/cowrie.pid --logger cowrie.python.logfile.logger cowrie ]...
+/home/pablo/Desktop/Honeypot/cowrie/cowrie-env/lib/python3.13/site-packages/twisted/conch/ssh/transport.py:105: CryptographyDeprecationWarning: TripleDES has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.TripleDES and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  b"3des-cbc": (algorithms.TripleDES, 24, modes.CBC),
+/home/pablo/Desktop/Honeypot/cowrie/cowrie-env/lib/python3.13/site-packages/twisted/conch/ssh/transport.py:112: CryptographyDeprecationWarning: TripleDES has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.TripleDES and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  b"3des-ctr": (algorithms.TripleDES, 24, modes.CTR),
+ERROR: You must not run cowrie as root!
+Using activated Python virtual environment "/home/pablo/Desktop/Honeypot/cowrie/cowrie-env"
+Starting cowrie: [twistd  --umask=0022 --pidfile=var/run/cowrie.pid --logger cowrie.python.logfile.logger cowrie ]...
+/home/pablo/Desktop/Honeypot/cowrie/cowrie-env/lib/python3.13/site-packages/twisted/conch/ssh/transport.py:105: CryptographyDeprecationWarning: TripleDES has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.TripleDES and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  b"3des-cbc": (algorithms.TripleDES, 24, modes.CBC),
+/home/pablo/Desktop/Honeypot/cowrie/cowrie-env/lib/python3.13/site-packages/twisted/conch/ssh/transport.py:112: CryptographyDeprecationWarning: TripleDES has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.TripleDES and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  b"3des-ctr": (algorithms.TripleDES, 24, modes.CTR),
+ERROR: You must not run cowrie as root!

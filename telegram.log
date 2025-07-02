@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/pablo/Desktop/Honeypot/alert_telegram.py", line 16, in <module>
+    monitor()
+    ~~~~~~~^^
+  File "/home/pablo/Desktop/Honeypot/alert_telegram.py", line 10, in monitor
+    with open(LOG_PATH, "r") as f:
+         ~~~~^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'var/log/cowrie/cowrie.log'
